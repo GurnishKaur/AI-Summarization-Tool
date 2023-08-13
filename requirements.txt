@@ -3,8 +3,6 @@ torch
 torchvision
 torchaudio
 tensorflow
-tensorflow-gpu
 transformers
 numpy
 pandas
-nvidia-cudnn-cu11==8.6.0.163
