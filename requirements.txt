@@ -1,4 +1,5 @@
-streamlit 
+streamlit
+torch
 transformers
 numpy
 pandas
